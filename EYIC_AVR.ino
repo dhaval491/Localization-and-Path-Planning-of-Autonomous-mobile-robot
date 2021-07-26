@@ -1,7 +1,7 @@
 /*AVR CODE for FIREBIRD V by Hindustan Dynamics*/
 /*
 * Project Name:   <Vision Guided Autonomous Mobile Robot In Static Environment>
-* Author List:  <Dhaval Patel,> 
+* Author List:  <Dhaval Patel, Jash Diyora> 
 *
 * Filename:   <Path Planning.m>
   
