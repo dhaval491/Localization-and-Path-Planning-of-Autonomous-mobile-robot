@@ -1,8 +1,10 @@
 # Path Planning-of-Autonomous-mobile-robot
 The MATLAB code that I have implemented for vision guided autonomous mobile robot. 
+I have introduced a new Path PLanning Optimization Algorithm named: Next First Search Algorithm found in IJRSI Vol VI Issue XII (https://www.rsisinternational.org/journals/ijrsi/archive/volume-vi-issue-xii/#1516096414729-cab4f566-2fb8)
+
 Algorithms used for comparisions: Ant Colony Optimization (ACO), Breadth First Search (BFS), Depth First Search (DFS) and Next First Search (NFS)
 
-Link for the results and video of the project for more details : https://drive.google.com/open?id=16Xa8QiT5HuvIZ_-Q3bhyc2zQqa1HKA4G
+Link for the results and video of the project with NFS algorithm implemented: https://drive.google.com/open?id=16Xa8QiT5HuvIZ_-Q3bhyc2zQqa1HKA4G
 
 **Tasks
 
