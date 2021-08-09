@@ -8,7 +8,7 @@ Sample calculated Shortest path path in real time. The stone is taken as destina
 
 ![Calculated shortest path](https://github.com/dhaval491/Path-Planning-of-Autonomous-mobile-robot/blob/master/path%20planing1.jpg)
 
-**Below demo is the Robot reaching its destination. The centroid of Robot geometry merges with that of the destination(stone in this case). The checkerboard pattern is used for detecting the robot for localization and orientation in the environment.** 
+**Below demo is the Robot reaching its destination. The centroid of Robot geometry merges with that of the destination(stone in this case). The checkerboard pattern is used for detecting the robot for localization and orientation in the environment using image processing.** 
  ![Path Planning Demo of the Robot ]( https://github.com/dhaval491/Path-Planning-of-Autonomous-mobile-robot/blob/master/Demo_path_PLanning.gif)
 
 
