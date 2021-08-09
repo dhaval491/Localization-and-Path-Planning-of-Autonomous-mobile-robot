@@ -5,7 +5,7 @@ I have introduced a new Path PLanning Optimization Algorithm named: Next First S
 Algorithms used for comparisions: Ant Colony Optimization (ACO), Breadth First Search (BFS), Depth First Search (DFS) and Next First Search (NFS)
 
 
-**Below demo is the Robot reaching its destination. The centroid of Robot geometry merges with that of the destination(stone in this case). The checkerboard pattern is used for detecting the robot for localization and orientation in the environment. 
+**Below demo is the Robot reaching its destination. The centroid of Robot geometry merges with that of the destination(stone in this case). The checkerboard pattern is used for detecting the robot for localization and orientation in the environment.** 
  ![Path Planning Demo of the Robot ]( https://github.com/dhaval491/Path-Planning-of-Autonomous-mobile-robot/blob/master/Demo_path_PLanning.gif)
 
 
